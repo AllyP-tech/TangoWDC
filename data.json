@@ -1,0 +1,26 @@
+[
+    {
+        "name": "my App",
+        "internal_id": "12345",
+        "external_id": "23432",
+        "lifecycle phase": "PRODUCTION",
+        "type": "CUSTOM",
+        "in_scope": "Y"
+    },
+    {
+        "name": "my App 2",
+        "internal_id": "12346_1",
+        "external_id": "23432",
+        "lifecycle phase": "DEVELOPMENT",
+        "type": "CUSTOM",
+        "in_scope": "Y"
+    },
+    {
+        "name": "my App 3",
+        "internal_id": "1234599",
+        "external_id": "23432",
+        "lifecycle phase": "PRODUCTION",
+        "type": "CUSTOM",
+        "in_scope": "N"
+    }
+]
